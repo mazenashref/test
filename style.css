@@ -1,0 +1,21 @@
+body{
+    background-color: powderblue;
+}
+
+#Hope{
+    padding-left: 380px;
+}
+#image1{
+    padding-left: 270px;
+    margin: 0%;
+}
+
+h1{
+    font-size: 20px;
+    width: 100%;
+     
+}
+img{
+    width: 350px;
+    border: 4px solid black;
+}
